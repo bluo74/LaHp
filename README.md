@@ -10,7 +10,7 @@ Le plugin consiste a give 900Hp quand tu es en service admin quand tu enlèves t
 3 Utiliser le plugin.
 
 # ⏳ Téléchargement
-LaHp
+*LaHp V1.0.0*
 
 # 📗 Dépendance
 Aucune dépendance
