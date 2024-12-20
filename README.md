@@ -1,7 +1,7 @@
 # ➕LaHp
 Si tu est admin tu gagne de la vie !
 
-# 📕 Fonctionnalité:
+# 📕 Fonctionnalit
 Le plugin consiste a give 900Hp quand tu es en service admin quand tu enlèves ton service tu reviens a 100Hp
 
 # 🔨 Installation:
@@ -9,10 +9,10 @@ Le plugin consiste a give 900Hp quand tu es en service admin quand tu enlèves t
 2 Mettez le fichier dans le dossier plugin de vôtre serveur.
 3 Utiliser le plugin.
 
-# ⏳ Téléchargement:
+# ⏳ Téléchargement
 LivreurVignoble.
 
-# 📗 Dépendance:
+# 📗 Dépendance
 Aucune dépendance
 
 # 📮  Contact
