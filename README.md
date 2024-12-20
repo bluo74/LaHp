@@ -4,13 +4,13 @@ Si tu est admin tu gagne de la vie !
 # 📕 Fonctionnalit
 Le plugin consiste a give 900Hp quand tu es en service admin quand tu enlèves ton service tu reviens a 100Hp
 
-# 🔨 Installation:
+# 🔨 Installation
 1 Télécharger et installer le plugin LaHp.dll.
 2 Mettez le fichier dans le dossier plugin de vôtre serveur.
 3 Utiliser le plugin.
 
 # ⏳ Téléchargement
-LivreurVignoble.
+LaHp
 
 # 📗 Dépendance
 Aucune dépendance
